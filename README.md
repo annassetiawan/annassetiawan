@@ -1,5 +1,9 @@
 ### Passionate front-end developer with an interest in design & animation.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annassetiawan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=annassetiawan&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs)
+
+
 
 <!--
 **annassetiawan/annassetiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
